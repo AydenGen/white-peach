@@ -70,13 +70,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
           <Link href="/">
             <a aria-label={BLOG.title}>
               <div className="h-6">
-              <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-                <g>
-                <title>Layer 1</title>
-                <text style="cursor: text;" transform="matrix(10.7829 0 0 10.1258 -3572.56 -2847.24)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Changa'" font-size="24" id="svg_1" y="318.19761" x="348.17365" stroke-width="0" fill="#000000">Mia</text>
-                </g>
-              </svg>
-                {/* <svg
+                <svg
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
@@ -102,7 +96,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
                       <stop offset="1" stopColor="#E9E9E9" stopOpacity="0" />
                     </radialGradient>
                   </defs>
-                </svg> */}
+                </svg>
               </div>
             </a>
           </Link>
