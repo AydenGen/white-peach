@@ -1,7 +1,7 @@
 const BLOG = {
   title: '白凤桃日报',
   author: 'Mia',
-  email: '',
+  email: 'itxcc420+baifengtao@gmail.com',
   link: 'https://white-peach.vercel.app/',
   description: '除了工作啥都报的日报',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
