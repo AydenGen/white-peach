@@ -70,7 +70,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
           <Link href="/">
             <a aria-label={BLOG.title}>
               <div className="h-6">
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="24" height="24">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" id="body_1" width="24" height="24">
                 <defs>
                   <clipPath id="1"><path clipRule="evenodd" d="M214 0L746 0L746 540L214 540z"/></clipPath>
                   <clipPath id="2"><path clipRule="evenodd" d="M-4.65661E-10 0L6756400 0L6756400 6858000L-4.65661E-10 6858000z"/></clipPath>
